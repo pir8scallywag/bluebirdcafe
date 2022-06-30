@@ -29,7 +29,9 @@ GitHub website:
 https://github.com/pir8scallywag/bluebirdcafe
 
 web page screenshot
-Screen Shot 2022.png
+<p>
+    <img src="Screen Shot 2022.png" width="220" height="240" />
+</p>
 
 
 Contribution
